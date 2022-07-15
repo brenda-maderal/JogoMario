@@ -42,7 +42,7 @@ const loop = setInterval(function () {
 
         setTimeout(function () {
             
-            alert("Game Over")
+            alert("Game Over, A Brenda é melhor!!!!!")
         }, 500);
        
          
